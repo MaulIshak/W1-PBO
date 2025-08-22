@@ -1,4 +1,4 @@
-package part_2.soal2;
+package part2.soal2;
 
 public class Constants {
   // public static final double CM_PER_INCH = 2.54;

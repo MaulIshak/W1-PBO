@@ -1,4 +1,4 @@
-package part_2.soal3;
+package part2.soal3;
 public class FloatingPoint {
   public static void main(String[] args) {
     double x = 92.98;

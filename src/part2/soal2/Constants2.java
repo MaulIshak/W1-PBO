@@ -1,4 +1,4 @@
-package part_2.soal2;
+package part2.soal2;
 
 public class Constants2 {
   public static final double CM_PER_INCH = 2.54;
@@ -10,3 +10,4 @@ public class Constants2 {
         CM_PER_INCH + " by " + paperHeight * CM_PER_INCH);
   }
 }
+

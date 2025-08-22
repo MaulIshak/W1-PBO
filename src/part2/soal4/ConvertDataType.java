@@ -1,4 +1,5 @@
-package part_2.soal4;
+package part2.soal4;
+
 public class ConvertDataType {
   static short methodOne(long l) {
     int i = (int) l;

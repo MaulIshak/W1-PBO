@@ -1,4 +1,4 @@
-package part_2.soal5;
+package part2.soal5;
 
 import java.util.Scanner;
 

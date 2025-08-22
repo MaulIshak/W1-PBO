@@ -1,4 +1,4 @@
-package part_2.soal1;
+package part2.soal1;
 import java.util.Scanner;
 
 public class DataType {

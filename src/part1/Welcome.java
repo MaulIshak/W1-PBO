@@ -1,4 +1,4 @@
-package part_1;
+package part1;
 
 public class Welcome{
   public static void main(String[] args) {

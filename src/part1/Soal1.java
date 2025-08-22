@@ -1,4 +1,4 @@
-package part_1;
+package part1;
 
 public class Soal1 {
   public static void main(String[] args) {
