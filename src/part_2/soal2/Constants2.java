@@ -1,6 +1,6 @@
 package part_2.soal2;
 
-public class Constans2 {
+public class Constants2 {
   public static final double CM_PER_INCH = 2.54;
 
   public static void main(String[] args) {
